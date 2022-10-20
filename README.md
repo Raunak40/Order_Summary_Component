@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Order_Summary_Component/design/desktop-design.png)
+![](/design/desktop-design.png)
 ![](/design/mobile-design.png)
 
 ### Links
