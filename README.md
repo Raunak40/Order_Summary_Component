@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Raunak40/Order_Summary_Component)
+- Live Site URL: [extraordinary-beignet-1b7d8b](https://extraordinary-beignet-1b7d8b.netlify.app)
 
 ## My process
 
@@ -56,6 +56,6 @@ I don't think there is anything more to develop in this project but I am open to
 
 ## Author
 
-- Website - [Raunak Raj](https://www.your-site.com)
+- Website - [Raunak Raj](https://extraordinary-beignet-1b7d8b.netlify.app)
 - Frontend Mentor - [@Raunak40](https://www.frontendmentor.io/profile/Raunak40)
-- Github - [@Raunak40](https://www.twitter.com/)
+- Github - [@Raunak40](https://github.com/Raunak40)
